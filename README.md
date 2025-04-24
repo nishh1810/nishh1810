@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Nishita Sachdev
 
-💻 **Full-Stack Developer | Analyst | Problem Solver**  
+💻 **Full-Stack Developer | Data Analyst**  
 📍 Based in Toronto | Open to new opportunities  
 🌱 Always learning, building, and improving
 
