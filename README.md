@@ -26,9 +26,9 @@ I'm a curious and creative full-stack developer who loves building meaningful, u
 ### 🛠 Tech Stack
 
 **Frontend:** React, Angular, Flutter, HTML5, CSS3, Bootstrap  
-**Backend:** Spring Boot, Node.js, GraphQL, REST APIs  
-**Database:** MySQL, MongoDB, Firebase  
-**Tools:** Git, GitHub, Postman, VS Code  
+**Backend:** Spring Boot, .NET, Node.js, GraphQL, REST APIs  ,Javascript, TypeScript, Python
+**Database:** MySQL, MongoDB, Firebase, PostgresSQL  
+**Tools:** Git, GitHub, Postman, VS Code, Docker  
 **Workflow:** Agile, Scrum, CI/CD, GitHub Projects
 
 ---
